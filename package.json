@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-node-demo",
+  "version": "1.0.0",
+  "description": "Demo Node.js app for GitHub Actions CI",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "moki-zz",
+  "license": "MIT"
+}
